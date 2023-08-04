@@ -5,7 +5,7 @@ import Quiz from "./quiz/page"
 export default function Home() {
   return (
     <main>
-      <Button>hehehe</Button>
+      <Button>nonono</Button>
       <div>
         <Quiz/>
       </div>
